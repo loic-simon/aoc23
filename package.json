@@ -1,0 +1,19 @@
+{
+  "name": "aoc23",
+  "version": "1.0.0",
+  "description": "Advent of Code 2023",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loic-simon/aoc23.git"
+  },
+  "author": "Loïc Simon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loic-simon/aoc23/issues"
+  },
+  "homepage": "https://github.com/loic-simon/aoc23#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
